@@ -5,7 +5,7 @@
 // If number of element  Increaes, it doesnt effect the Operation
 
 function compressFirstBox(box) {
-    console.log(box[0]);
+    console.log(box[0]); 
 }
 
 //For this function  we can have 100 elements still we will only compute  ONE operation 
