@@ -16,3 +16,8 @@ Strings.unshift('x') // O(n) --> as we have to shift each position of the elemen
 //SPLICE
 String.splice(2,0, 'alien'); // O(n) --> since alien will be added on the 2nd position 
 //and 'c will be removed again we shift positions
+
+//-------------------------------------------------------------
+// Array of 2 types static and Dynamic arrays 
+// --> static --> Size of array already known
+// --> dynamic array --> size of array is not fixed or known 
