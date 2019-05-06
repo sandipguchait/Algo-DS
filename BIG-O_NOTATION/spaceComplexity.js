@@ -24,5 +24,5 @@ function arraySpace(n) {
 // ABOVE Function has O(n) space Complexity
 
 // In this above function we see that we have allocated an space of hiArray
-// and we fill it with 'hello' as many times as input which is not in our control
+// and we fill it with 'hello' as many times as input increases so as our output which is not in our control
 // so for every single element included more space is allocated. 
