@@ -2,6 +2,7 @@
 const Strings = ['a','b','c','d'];
 
 //4*4 = 16 bytes of storage on 32 bit system
+Strings[2] // O(1)
 
 // PUSh
 Strings.push('e'); // O(1) --> since one sting is added at the last 
